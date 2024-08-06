@@ -96,7 +96,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'zoomit_db',
         'USER': 'postgres',
-        'PASSWORD': 'Net_25',
+        'PASSWORD': '*****',
         'HOST': 'localhost',
         'PORT': '5432',
     }
