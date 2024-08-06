@@ -1,0 +1,2 @@
+./zoomit/zoomit/settings.py
+./zoomit_env
